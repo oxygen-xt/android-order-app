@@ -1,0 +1,16 @@
+# Android Studio and build output
+.gradle/
+.idea/
+.kotlin/
+**/build/
+local.properties
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+.DS_Store
+# Local secrets and signing keys
+.env
+.env.*
+*.jks
+*.keystore
